@@ -19,6 +19,8 @@ nypost.com
 scienceblog.com
 ! https://futurism.com/artificial-intelligence/brown-brothers-media-ai-slop-empire
 spacedaily.com
+! https://futurism.com/artificial-intelligence/brown-brothers-media-ai-slop-empire
+theartfulage.com
 thesun.co.uk
 theepochtimes.com
 ! https://futurism.com/artificial-intelligence/brown-brothers-media-ai-slop-empire
