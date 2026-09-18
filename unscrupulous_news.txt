@@ -2,16 +2,16 @@
 ! Last modified: 2026-09-17
 ! Homepage: https://github.com/giantpaper/filterlists
 !
-||dailymail.co.uk^
+dailymail.co.uk
 ! https://futurism.com/artificial-intelligence/brown-brothers-media-ai-slop-empire
-||dmnews.com^
+dmnews.com
 ! https://futurism.com/artificial-intelligence/brown-brothers-media-ai-slop-empire
-||housefresh.com^
-||newsbreak.com^
-||nypost.com^
+housefresh.com
+newsbreak.com
+nypost.com
 ! https://futurism.com/artificial-intelligence/brown-brothers-media-ai-slop-empire
-||spacedaily.com^
-||thesun.co.uk^
-||theepochtimes.com^
+spacedaily.com
+thesun.co.uk
+theepochtimes.com
 ! https://futurism.com/artificial-intelligence/brown-brothers-media-ai-slop-empire
-||vegout.com^
+vegout.com
