@@ -18,6 +18,8 @@ housefresh.com
 newsbreak.com
 nypost.com
 ! https://futurism.com/artificial-intelligence/brown-brothers-media-ai-slop-empire
+observer.com
+! https://futurism.com/artificial-intelligence/brown-brothers-media-ai-slop-empire
 scandinaviastandard.com
 ! https://futurism.com/artificial-intelligence/brown-brothers-media-ai-slop-empire
 scienceblog.com
