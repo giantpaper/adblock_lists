@@ -1,0 +1,21 @@
+[Adblock Plus 2.0]
+! Version: 1.0
+! Title: Unscrupulous News
+! Last modified: 2026-09-17
+! Expires: 7 days (update frequency)
+! Homepage: 
+!
+||dailymail.co.uk^
+! https://futurism.com/artificial-intelligence/brown-brothers-media-ai-slop-empire
+||dmnews.com^
+! https://futurism.com/artificial-intelligence/brown-brothers-media-ai-slop-empire
+||housefresh.com^
+||newsbreak.com^
+||nypost.com^
+! https://futurism.com/artificial-intelligence/brown-brothers-media-ai-slop-empire
+||spacedaily.com^
+||thesun.co.uk^
+||theepochtimes.com^
+! https://futurism.com/artificial-intelligence/brown-brothers-media-ai-slop-empire
+||vegout.com^
+(all the rest of your custom filters)
