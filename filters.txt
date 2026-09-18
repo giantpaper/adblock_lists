@@ -3,7 +3,7 @@
 ! Title: Unscrupulous News
 ! Last modified: 2026-09-17
 ! Expires: 7 days (update frequency)
-! Homepage: 
+! Homepage: https://github.com/giantpaper/filterlists
 !
 ||dailymail.co.uk^
 ! https://futurism.com/artificial-intelligence/brown-brothers-media-ai-slop-empire
