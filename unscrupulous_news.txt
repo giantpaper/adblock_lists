@@ -1,9 +1,6 @@
-[Adblock Plus 2.0]
-! Version: 1.0
 ! Title: Unscrupulous News
 ! Last modified: 2026-09-17
-! Expires: 7 days (update frequency)
-! Homepage: 
+! Homepage: https://github.com/giantpaper/filterlists
 !
 ||dailymail.co.uk^
 ! https://futurism.com/artificial-intelligence/brown-brothers-media-ai-slop-empire
@@ -18,4 +15,3 @@
 ||theepochtimes.com^
 ! https://futurism.com/artificial-intelligence/brown-brothers-media-ai-slop-empire
 ||vegout.com^
-(all the rest of your custom filters)
