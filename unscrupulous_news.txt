@@ -32,4 +32,6 @@ thelawdictionary.org
 thesun.co.uk
 theepochtimes.com
 ! https://futurism.com/artificial-intelligence/brown-brothers-media-ai-slop-empire
+thevessel.io
+! https://futurism.com/artificial-intelligence/brown-brothers-media-ai-slop-empire
 vegout.com
