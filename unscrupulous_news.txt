@@ -3,43 +3,43 @@
 ! Homepage: https://github.com/giantpaper/filterlists
 !
 ! https://futurism.com/artificial-intelligence/brown-brothers-media-ai-slop-empire
-biblescripture.net
+!!biblescripture.net^
 ! https://futurism.com/artificial-intelligence/brown-brothers-media-ai-slop-empire
-brownbrothers.io
-dailymail.co.uk
+!!brownbrothers.io^
+!!dailymail.co.uk^
 ! https://futurism.com/artificial-intelligence/brown-brothers-media-ai-slop-empire
-dmnews.com
+!!dmnews.com^
 ! https://futurism.com/artificial-intelligence/brown-brothers-media-ai-slop-empire
-ebsco.com
+!!ebsco.com^
 ! https://futurism.com/artificial-intelligence/brown-brothers-media-ai-slop-empire
-eluxemagazine.com
+!!eluxemagazine.com^
 ! https://futurism.com/artificial-intelligence/brown-brothers-media-ai-slop-empire
-geediting.com
+!!geediting.com^
 ! https://web.archive.org/web/20260918081320/https://brownbrothers.io/publications/
-hackspirit.com
+!!hackspirit.com^
 ! https://futurism.com/artificial-intelligence/brown-brothers-media-ai-slop-empire
-housefresh.com
-newsbreak.com
-nypost.com
+!!housefresh.com^
+!!newsbreak.com^
+!!nypost.com^
 ! https://futurism.com/artificial-intelligence/brown-brothers-media-ai-slop-empire
-observer.com
+!!observer.com^
 ! https://futurism.com/artificial-intelligence/brown-brothers-media-ai-slop-empire
-scandinaviastandard.com
+!!scandinaviastandard.com^
 ! https://futurism.com/artificial-intelligence/brown-brothers-media-ai-slop-empire
-scienceblog.com
+!!scienceblog.com^
 ! https://futurism.com/artificial-intelligence/brown-brothers-media-ai-slop-empire
-siliconcanals.com
+!!siliconcanals.com^
 ! https://futurism.com/artificial-intelligence/brown-brothers-media-ai-slop-empire
-spacedaily.com
+!!spacedaily.com^
 ! https://web.archive.org/web/20260918081320/https://brownbrothers.io/publications/
-terradaily.com
+!!terradaily.com^
 ! https://futurism.com/artificial-intelligence/brown-brothers-media-ai-slop-empire
-theartfulage.com
+!!theartfulage.com^
 ! https://futurism.com/artificial-intelligence/brown-brothers-media-ai-slop-empire
-thelawdictionary.org
-thesun.co.uk
-theepochtimes.com
+!!thelawdictionary.org^
+!!thesun.co.uk^
+!!theepochtimes.com^
 ! https://futurism.com/artificial-intelligence/brown-brothers-media-ai-slop-empire
-thevessel.io
+!!thevessel.io^
 ! https://futurism.com/artificial-intelligence/brown-brothers-media-ai-slop-empire
-vegout.com
+!!vegout.com^
