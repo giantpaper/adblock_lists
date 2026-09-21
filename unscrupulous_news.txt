@@ -1,6 +1,6 @@
 ! Title: Unscrupulous News
 ! Last modified: 2026-09-17
-! Homepage: https://github.com/giantpaper/filterlists
+! Homepage: https://github.com/giantpaper/adblock_lists
 !
 ! https://futurism.com/artificial-intelligence/brown-brothers-media-ai-slop-empire
 ||biblescripture.net^
