@@ -2,44 +2,34 @@
 ! Last modified: 2026-09-17
 ! Homepage: https://github.com/giantpaper/adblock_lists
 !
-! https://futurism.com/artificial-intelligence/brown-brothers-media-ai-slop-empire
-||biblescripture.net^
-! https://futurism.com/artificial-intelligence/brown-brothers-media-ai-slop-empire
-||brownbrothers.io^
 ||dailymail.co.uk^
-! https://futurism.com/artificial-intelligence/brown-brothers-media-ai-slop-empire
-||dmnews.com^
-! https://futurism.com/artificial-intelligence/brown-brothers-media-ai-slop-empire
-||ebsco.com^
-! https://futurism.com/artificial-intelligence/brown-brothers-media-ai-slop-empire
-||eluxemagazine.com^
-! https://futurism.com/artificial-intelligence/brown-brothers-media-ai-slop-empire
-||geediting.com^
-! https://web.archive.org/web/20260918081320/https://brownbrothers.io/publications/
-||hackspirit.com^
-! https://futurism.com/artificial-intelligence/brown-brothers-media-ai-slop-empire
-||housefresh.com^
+
 ||newsbreak.com^
 ||nypost.com^
-! https://futurism.com/artificial-intelligence/brown-brothers-media-ai-slop-empire
-||observer.com^
-! https://futurism.com/artificial-intelligence/brown-brothers-media-ai-slop-empire
-||scandinaviastandard.com^
-! https://futurism.com/artificial-intelligence/brown-brothers-media-ai-slop-empire
-||scienceblog.com^
-! https://futurism.com/artificial-intelligence/brown-brothers-media-ai-slop-empire
-||siliconcanals.com^
-! https://futurism.com/artificial-intelligence/brown-brothers-media-ai-slop-empire
-||spacedaily.com^
-! https://web.archive.org/web/20260918081320/https://brownbrothers.io/publications/
-||terradaily.com^
-! https://futurism.com/artificial-intelligence/brown-brothers-media-ai-slop-empire
-||theartfulage.com^
-! https://futurism.com/artificial-intelligence/brown-brothers-media-ai-slop-empire
-||thelawdictionary.org^
 ||thesun.co.uk^
 ||theepochtimes.com^
+!
+!
+! Mega AI slop empire
+! ---------------------
 ! https://futurism.com/artificial-intelligence/brown-brothers-media-ai-slop-empire
+||biblescripture.net^
+||brownbrothers.io^
+||dmnews.com^
+||ebsco.com^
+||eluxemagazine.com^
+||geediting.com^
+||theartfulage.com^
+||thelawdictionary.org^
 ||thevessel.io^
-! https://futurism.com/artificial-intelligence/brown-brothers-media-ai-slop-empire
 ||vegoutmag.com^
+||housefresh.com^
+||observer.com^
+||scandinaviastandard.com^
+||scienceblog.com^
+||siliconcanals.com^
+||spacedaily.com^
+! https://web.archive.org/web/20260918081320/https://brownbrothers.io/publications/
+||hackspirit.com^
+||terradaily.com^
+! End mega AI slop empire
