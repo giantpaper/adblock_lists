@@ -6,13 +6,13 @@ These are lists I created to use globally across all my devices, so I made them 
 
 ### 1. Click list file you want to use
 
-![[readme/howto-01.png]]
+![screenshot of the repo, with an arrow pointing to example list -- "unscrupulous_news.txt"](./readme/howto-01.png)
 
 ### 2. Get the raw text file
 
 Click **Raw** in the top right corner, and copy the URL of the text that opens into the browser window.
 
-![[readme/howto-02.png]]
+![screenshot of the repo, with an arrow pointing to the Raw button](./readme/howto-02.png)
 
 Ex. https://raw.githubusercontent.com/giantpaper/filterlists/refs/heads/main/unscrupulous_news.txt
 
@@ -27,7 +27,8 @@ This changes depending on the adblocker, but the two I'm most familiar with are:
 3. Paste in the URL you copied above into the field that expands.
 4. Click Apply Changes at the top.
 
-![[readme/Pasted image 20260920040328.png]]
+
+![screenshot the uBlock Origin Settings](./readme/Pasted_image_20260920040328.png)
 
 **Adguard (iOS)**
 
