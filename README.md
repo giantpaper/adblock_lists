@@ -4,19 +4,11 @@ These are lists I created to use globally across all my devices, so I made them 
 
 ## Usage
 
-### 1. Click list file you want to use
+### 1. Right click and copy the URL of the list you want to use
 
-![screenshot of the repo, with an arrow pointing to example list -- "unscrupulous_news.txt"](./readme/howto-01.png)
+- [Unscrupulous News](https://github.com/giantpaper/adblock_lists/releases/download/v1.0.1/unscrupulous_news.txt)
 
-### 2. Get the raw text file
-
-Click **Raw** in the top right corner, and copy the URL of the text that opens into the browser window.
-
-![screenshot of the repo, with an arrow pointing to the Raw button](./readme/howto-02.png)
-
-Ex. https://raw.githubusercontent.com/giantpaper/filterlists/refs/heads/main/unscrupulous_news.txt
-
-### 3. Paste into your adblock settings as a custom URL
+### 2. Paste into your adblock settings as a custom URL
 
 This changes depending on the adblocker, but the two I'm most familiar with are:
 
