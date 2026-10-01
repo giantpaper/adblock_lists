@@ -3,11 +3,14 @@
 ! Homepage: https://github.com/giantpaper/adblock_lists
 !
 ||dailymail.co.uk^
-
-||newsbreak.com^
+!
 ||nypost.com^
 ||thesun.co.uk^
 ||theepochtimes.com^
+!
+!
+! https://en.wikipedia.org/wiki/NewsBreak#Erroneous_and_AI_created_articles
+||newsbreak.com^
 !
 !
 ! Mega AI slop empire
